@@ -9,19 +9,30 @@ AI 기술을 사람들의 일상 속으로 옮깁니다.
 
 ---
 
-## Awards
-
-- **자율주행 레이싱 대회 - 전국 우승** (2026.07)
-  AirSim 자율주행 알고리즘 · 278팀 참가
-- **팀 프로젝트 우수상 (1위)** (2026.08)
-  MODERA · 삼성전자 수여
-- **교육과정 성적우수상** (2026.06)
-  삼성 청년 SW·AI 아카데미 1학기 · 삼성전자 수여
-
 ## Experience
 
-- **삼성 청년 SW·AI 아카데미 (SSAFY)**
-- **42경산** · Common Core (C/C++)
+### 삼성 청년 SW·AI 아카데미 (SSAFY) 15기
+`2026.01 ~ 현재` · 삼성전자가 운영하는 1년 과정의 SW·AI 개발자 교육
+
+- **1학기** · SW·AI 이론 및 실습 (Python, Django, Vue)
+  - 🏆 **1학기 성적우수상** (종합성적 반 2등)
+  - 관통 프로젝트 **[IT-doc](https://github.com/42JH/SSAFY1-PJT)** : 증상으로 진료과와 가까운 병원을 추천하는 웹 서비스
+- **2026.05 ~ 07** · AirSim 자율주행 레이싱 대회
+  - 🏆 **전국 우승** (278팀 중 리그 1위, 결승 토너먼트 우승)
+  - 3인 팀, 주행 알고리즘 전담
+- **2026.07 ~ 08** · 6인 프로젝트 **[MODERA](https://github.com/42JH/MODERA)** : AI 스크린샷 분류·검색 앱
+  - 🏆 **팀 프로젝트 우수상** (반 1위, 전국 발표회 발표)
+  - AI 서버 분석·검색 담당 (API 23개 중 19개)
+- **2026.08 ~ 09** · 6인 프로젝트 **[SIA](https://github.com/42JH/SIA)** : 시선·음성 기반 데스크톱 AI 비서
+  - 시선 추적, LLM 판단, 음성 라우터 담당 · 최종 발표
+- **2026.10 ~ 11** · 6인 기업 협업 프로젝트 **[Dver·Dva](https://github.com/42JH/DVA)** : 전화로 택배를 접수하는 AI 상담원
+  - 관리자 웹 리드, 배포, AI 응대 품질 테스트
+- **알고리즘·CS 스터디** 스터디장 (5인) · [SSAFY_STUDY](https://github.com/42JH/SSAFY_STUDY)
+
+### 42경산
+`2024.06 ~ 2025.12` · Common Core (C/C++)
+
+- libft, printf, minishell, philosophers, pipex 등 시스템 프로그래밍 과제
 
 ---
 
@@ -35,17 +46,6 @@ AI 기술을 사람들의 일상 속으로 옮깁니다.
 | **Frontend** | ![](https://skillicons.dev/icons?i=ts,react,vite,tailwind)<br>`TanStack Query` `React Router` `MSW` | 관리자 웹 전반, 성능·접근성 개선, 목 API 테스트 |
 | **DevOps** | ![](https://skillicons.dev/icons?i=docker,jenkins,nginx,aws,linux) | Jenkins 자동 배포, Nginx 압축·HTTP/2, AWS Lightsail 운영 |
 | **Etc** | ![](https://skillicons.dev/icons?i=c,vue,git,gitlab)<br>`Jira` | C 시스템 프로그래밍(42경산), 팀 협업 |
-
----
-
-## Projects
-
-| 프로젝트 | 소개 | 규모 | 담당 | 성과 |
-| --- | --- | --- | --- | --- |
-| [Dver·Dva](https://github.com/42JH/DVA) | 전화로 택배를 접수하는 AI 상담원 (기업 협업) | 6인 · 6주 | 관리자 웹 리드 · AI 품질 테스트 | 고객 불만 판정 정밀도 96% |
-| [SIA](https://github.com/42JH/SIA) | 시선 · 음성 기반 데스크톱 AI 비서 | 6인 · 7주 | 시선 추적 · LLM 판단 · 음성 라우터 | 최종 발표 |
-| [MODERA](https://github.com/42JH/MODERA) | AI 스크린샷 분류 · 검색 앱 | 6인 · 6주 | AI 서버 분석 · 검색 | 🏆 우수상 |
-| AirSim 레이싱 | 자율주행 알고리즘 대회 | 3인 · 5주 | 주행 알고리즘 전담 | 🏆 전국 우승 |
 
 ---
 
