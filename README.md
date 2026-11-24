@@ -1,3 +1,5 @@
+<div align="center">
+
 # 안녕하세요, 이재훈입니다.
 
 AI 기술을 사람들의 일상 속으로 옮깁니다.
@@ -7,32 +9,34 @@ AI 기술을 사람들의 일상 속으로 옮깁니다.
 
 ![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
 
+</div>
+
 ---
 
-## Experience
+## 🏆 Awards
 
-### 삼성 청년 SW·AI 아카데미 (SSAFY) 15기
-`2026.01 ~ 현재` · 삼성전자가 운영하는 1년 과정의 SW·AI 개발자 교육
+| 수상일 | 대회 · 과정 | 수상 내역 | 프로젝트 | 수여 기관 |
+| :--: | :-- | :-- | :-- | :-- |
+| 2026.08 | SSAFY 공통 프로젝트 | 우수상 (반 1위) | MODERA | 삼성전자 |
+| 2026.07 | SSAFY 자율주행 레이싱 대회 (AirSim) | 전국 우승 (278팀) | 3인 팀 팀장 | 삼성 청년 SW·AI 아카데미 |
+| 2026.06 | SSAFY 1학기 | 종합 성적우수상 | — | 삼성전자 |
 
-- **1학기** · SW·AI 이론 및 실습 (Python, Django, Vue)
-  - 🏆 **1학기 성적우수상**
-  - 관통 프로젝트 **[IT-doc](https://github.com/42JH/SSAFY1-PJT)** : 증상으로 진료과와 가까운 병원을 추천하는 웹 서비스
-- **2026.05 ~ 07** · AirSim 자율주행 레이싱 대회
-  - 🏆 **전국 우승** (278팀 중 리그 1위, 결승 토너먼트 우승)
-  - 3인 팀 팀장, 주행 알고리즘 전담
-- **2026.07 ~ 08** · 6인 프로젝트 **[MODERA](https://github.com/42JH/MODERA)** : AI 스크린샷 분류·검색 앱
-  - 🏆 **팀 프로젝트 우수상** (반 1위, 전국 발표회 발표)
-  - AI 서버 분석·검색 담당 (API 23개 중 19개)
-- **2026.08 ~ 09** · 6인 프로젝트 **[SIA](https://github.com/42JH/SIA)** : 시선·음성 기반 데스크톱 AI 비서
-  - 시선 추적, LLM 판단, 음성 라우터 담당 · 최종 발표
-- **2026.10 ~ 11** · 6인 기업 협업 프로젝트 **[Dver·Dva](https://github.com/42JH/DVA)** : 전화로 택배를 접수하는 AI 상담원
-  - 관리자 웹 리드, 배포, AI 응대 품질 테스트
-- **알고리즘·CS 스터디** 스터디장 (5인) · [SSAFY_STUDY](https://github.com/42JH/SSAFY_STUDY)
+## 🎓 Education
 
-### 42경산
-`2024.06 ~ 2025.12` · Common Core (C/C++)
+| 기간 | 교육 | 내용 |
+| :--: | :-- | :-- |
+| 2026.01 ~ 현재 | 삼성 청년 SW·AI 아카데미 (SSAFY) 15기 | 삼성전자가 운영하는 1년 과정의 SW·AI 개발자 교육 |
+| 2024.06 ~ 2025.12 | 42경산 | Common Core, C/C++ 시스템 프로그래밍 (libft, printf, minishell, philosophers, pipex) |
 
-- libft, printf, minishell, philosophers, pipex 등 시스템 프로그래밍 과제
+## 🚀 Projects
+
+| 프로젝트 | 서비스 | 담당 및 주요 경험 |
+| :-- | :-- | :-- |
+| **[Dver·Dva](https://github.com/42JH/DVA)**<br>2026.10 ~ 11 · 6인 · 기업 협업 | 전화로 택배를 접수하는 AI 상담원과 관리자 웹 | **관리자 웹 리드 · 배포** - 통화 후 고객 불만 자동 판정(정밀도 96%), AI 상담원 시나리오 자동 테스트, Nginx·Jenkins 배포 |
+| **[SIA](https://github.com/42JH/SIA)**<br>2026.08 ~ 09 · 6인 | 시선과 음성으로 PC를 조작하는 데스크톱 AI 비서 | **AI 총괄 · 최종 발표** - 웹캠 시선 추정(오차 228→156px), LLM 판단 파이프라인, LLM 없이 처리하는 로컬 음성 명령(5→24/27) |
+| **[MODERA](https://github.com/42JH/MODERA)**<br>2026.07 ~ 08 · 6인 | 스크린샷을 AI가 분류하고 자연어로 검색하는 앱 | **AI 서버 (API 23개 중 19개)** - 이미지 멀티모달 분석(분류 정확도 59→73%), 키워드·벡터 하이브리드 검색 |
+| **AirSim Racing**<br>2026.05 ~ 07 · 3인 | 시뮬레이터 자율주행 알고리즘 대회 | **팀장 · 주행 알고리즘 전담** - 속도 계획, 장애물 회피, 사고 복구 |
+| **[IT-doc](https://github.com/42JH/SSAFY1-PJT)**<br>2026 · SSAFY 1학기 | 증상으로 진료과와 가까운 병원을 추천하는 웹 서비스 | **Full Stack** - Django·Vue 기반 서비스 개발 |
 
 ---
 
@@ -48,13 +52,13 @@ AI 기술을 사람들의 일상 속으로 옮깁니다.
 
 ---
 
-## Algorithm
+## 📈 Stats
+
+<div align="center">
+
+![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=42JH&layout=compact&hide_border=true&bg_color=00000000&title_color=E0532F&text_color=6B6B6B&langs_count=6)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wogns5358)](https://solved.ac/wogns5358)
 
----
-
-## GitHub Stats
-
-![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B)
-
+</div>
