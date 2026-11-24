@@ -3,6 +3,11 @@
 일상 속에서 쓰이는 AI를 만듭니다.
 성능은 평가 데이터셋으로 측정하고, 문제가 생기면 로그를 근거로 원인을 찾습니다.
 
+[![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E0532F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
+
+![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
+
 ---
 
 ## Awards
@@ -66,19 +71,7 @@
 
 ---
 
-## Contributions
-
-![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
-
----
-
 ## GitHub Stats
 
 ![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github)
 
----
-
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-1A1918?style=for-the-badge&logo=gmail&logoColor=E0532F)](mailto:h202407@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1918?style=for-the-badge&logo=adobeacrobatreader&logoColor=E0532F)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
