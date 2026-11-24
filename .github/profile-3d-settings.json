@@ -1,11 +1,11 @@
 {
   "type": "normal",
   "fileName": "profile-portfolio.svg",
-  "backgroundColor": "#f6f4ef",
-  "foregroundColor": "#1a1918",
-  "strongColor": "#c2421f",
-  "weakColor": "#8f897e",
-  "radarColor": "#e0532f",
+  "backgroundColor": "#0a1026",
+  "foregroundColor": "#e0f2fe",
+  "strongColor": "#5eead4",
+  "weakColor": "#7c8db5",
+  "radarColor": "#2dd4bf",
   "growingAnimation": true,
-  "contribColors": ["#e9e3d8", "#f3c2b0", "#ec9473", "#e0532f", "#a8341a"]
+  "contribColors": ["#16213e", "#134e4a", "#0f766e", "#14b8a6", "#5eead4"]
 }
