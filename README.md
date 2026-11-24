@@ -4,7 +4,7 @@
 성능은 평가 데이터셋으로 측정하고, 문제가 생기면 로그를 근거로 원인을 찾습니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E0532F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
 
 ![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
 
