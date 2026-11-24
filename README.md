@@ -74,5 +74,5 @@
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-E0532F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-1A1918?style=for-the-badge&logo=gmail&logoColor=E0532F)](mailto:h202407@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1918?style=for-the-badge&logo=adobeacrobatreader&logoColor=E0532F)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
