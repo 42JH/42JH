@@ -6,6 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
+[![Baekjoon](https://img.shields.io/badge/Baekjoon-1F2D3D?style=for-the-badge&logo=baekjoon&logoColor=white)](https://solved.ac/wogns5358)
 
 ![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
 
@@ -60,17 +61,3 @@
 **Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 📈 Stats
-
-<div align="center">
-
-<!-- 점수 오르면 다시 켜기
-![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=42JH&layout=compact&hide_border=true&bg_color=00000000&title_color=E0532F&text_color=6B6B6B&langs_count=6)
--->
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wogns5358)](https://solved.ac/wogns5358)
-
-</div>
