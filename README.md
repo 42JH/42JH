@@ -27,19 +27,14 @@ AI 기술을 사람들의 일상 속으로 옮깁니다.
 
 ## Tech Stack
 
-**자주 사용해요**
-
-![main](https://skillicons.dev/icons?i=python,ts,react)
-
-**프로젝트에서 구현했어요**
-
-![project](https://skillicons.dev/icons?i=pytorch,opencv,fastapi,django,vite)
-
-`Gemini API` `OpenAI API` `MediaPipe` `faster-whisper` `OpenSearch` `TanStack Query`
-
-**사용해 본 적 있어요**
-
-![tried](https://skillicons.dev/icons?i=docker,jenkins,nginx,vue,c)
+| 분야 | 기술 | 이렇게 썼어요 |
+| :--: | :-- | :-- |
+| **AI** | ![](https://skillicons.dev/icons?i=pytorch,opencv)<br>`Gemini API` `OpenAI API` `MediaPipe` `faster-whisper` | 웹캠 시선 추정, 음성 명령 인식, 이미지 멀티모달 분석, 통화 불만 판정 |
+| **Search** | `OpenSearch` `BM25` `kNN` `RRF` | 키워드와 벡터를 합친 하이브리드 검색 |
+| **Backend** | ![](https://skillicons.dev/icons?i=python,fastapi,django) | AI 분석·검색 API 서버, 병원 추천 웹 API |
+| **Frontend** | ![](https://skillicons.dev/icons?i=ts,react,vite,tailwind)<br>`TanStack Query` `React Router` `MSW` | 관리자 웹 전반, 성능·접근성 개선, 목 API 테스트 |
+| **DevOps** | ![](https://skillicons.dev/icons?i=docker,jenkins,nginx,aws,linux) | Jenkins 자동 배포, Nginx 압축·HTTP/2, AWS Lightsail 운영 |
+| **Etc** | ![](https://skillicons.dev/icons?i=c,vue,git,gitlab)<br>`Jira` | C 시스템 프로그래밍(42경산), 팀 협업 |
 
 ---
 
