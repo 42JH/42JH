@@ -1,7 +1,6 @@
-# 안녕하세요, AI 엔지니어 이재훈입니다.
+# 안녕하세요, 이재훈입니다.
 
-일상 속에서 쓰이는 AI를 만듭니다.
-성능은 평가 데이터셋으로 측정하고, 문제가 생기면 로그를 근거로 원인을 찾습니다.
+AI 기술을 사람들의 일상 속으로 옮깁니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
@@ -30,27 +29,17 @@
 
 **자주 사용해요**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![main](https://skillicons.dev/icons?i=python,ts,react)
 
 **프로젝트에서 구현했어요**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/faster--whisper-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![project](https://skillicons.dev/icons?i=pytorch,opencv,fastapi,django,vite)
+
+`Gemini API` `OpenAI API` `MediaPipe` `faster-whisper` `OpenSearch` `TanStack Query`
 
 **사용해 본 적 있어요**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![tried](https://skillicons.dev/icons?i=docker,jenkins,nginx,vue,c)
 
 ---
 
@@ -73,5 +62,5 @@
 
 ## GitHub Stats
 
-![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github)
+![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B)
 
