@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-portfolio.svg",
+  "backgroundColor": "#f6f4ef",
+  "foregroundColor": "#1a1918",
+  "strongColor": "#c2421f",
+  "weakColor": "#8f897e",
+  "radarColor": "#e0532f",
+  "growingAnimation": true,
+  "contribColors": ["#e9e3d8", "#f3c2b0", "#ec9473", "#e0532f", "#a8341a"]
+}

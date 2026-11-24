@@ -66,6 +66,12 @@
 
 ---
 
+## Contributions
+
+![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
+
+---
+
 ## GitHub Stats
 
 ![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github)
