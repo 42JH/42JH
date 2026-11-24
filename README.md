@@ -1,8 +1,8 @@
 <div align="center">
 
-# 안녕하세요, 이재훈입니다.
+<img src="./assets/header.svg" width="100%" alt="Lee Jaehoon" />
 
-AI 기술을 사람들의 일상 속으로 옮깁니다.
+**안녕하세요, 이재훈입니다. AI 기술을 사람들의 일상 속으로 옮깁니다.**
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
