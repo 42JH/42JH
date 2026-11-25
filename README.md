@@ -36,7 +36,7 @@
 | **[SIA](https://github.com/42JH/SIA)**<br>2026.08 ~ 09 · 6인 | 시선과 음성으로 PC를 조작하는 데스크톱 AI 비서 | **AI 총괄 · 최종 발표** - 웹캠 시선 추정(오차 228→156px), LLM 판단 파이프라인, LLM 없이 처리하는 로컬 음성 명령(5→24/27) |
 | **[MODERA](https://github.com/42JH/MODERA)**<br>2026.07 ~ 08 · 6인 | 스크린샷을 AI가 분류하고 자연어로 검색하는 앱 | **AI 서버 (API 23개 중 19개)** - 이미지 멀티모달 분석(분류 정확도 59→73%), 키워드·벡터 하이브리드 검색 |
 | **AirSim Racing**<br>2026.05 ~ 07 · 3인 | 시뮬레이터 자율주행 알고리즘 대회 | **팀장 · 주행 알고리즘 전담** - 속도 계획, 장애물 회피, 사고 복구 |
-| **[IT-doc](https://github.com/42JH/SSAFY1-PJT)**<br>2026 · SSAFY 1학기 | 증상으로 진료과와 가까운 병원을 추천하는 웹 서비스 | **Full Stack** - Django·Vue 기반 서비스 개발 |
+| **[IT-doc](https://github.com/42JH/IT-doc)**<br>2026 · SSAFY 1학기 | 증상으로 진료과와 가까운 병원을 추천하는 웹 서비스 | **Full Stack** - Django·Vue 기반 서비스 개발 |
 
 ---
 
