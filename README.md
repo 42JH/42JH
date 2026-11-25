@@ -66,8 +66,8 @@
 
 <div align="center">
 
-![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=42JH&layout=compact&hide_border=true&bg_color=00000000&title_color=E0532F&text_color=6B6B6B&langs_count=6)
+![42JH GitHub Stats](https://github-stats-extended.vercel.app/api?username=42JH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=E0532F&icon_color=1F8A7A&ring_color=E0532F&text_color=6B6B6B&cache_seconds=21600)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=42JH&layout=compact&hide_border=true&bg_color=00000000&title_color=E0532F&text_color=6B6B6B&langs_count=6&cache_seconds=21600)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wogns5358)](https://solved.ac/wogns5358)
 
