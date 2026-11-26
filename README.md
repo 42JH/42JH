@@ -5,7 +5,7 @@
 **AI를 사람들이 매일 쓰는 서비스로 만드는 개발자, 이재훈입니다.**
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/42JH/portfolio/blob/main/Portfolio_LeeJaehoon.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=githubpages&logoColor=white)](https://42jh.github.io/portfolio/)
 
 ![3D Contributions](https://raw.githubusercontent.com/42JH/42JH/output/profile-3d-contrib/profile-portfolio.svg)
 
