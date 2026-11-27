@@ -4,8 +4,8 @@
 
 **개발은 코드를 쓰는 일보다, 문제를 발견하고 해결하는 과정입니다.**
 
-불편한 상황을 발견하면 해결 방법을 찾아보고, 필요한 기술을 빠르게 학습해 프로토타입을 만듭니다.<br>
-이후 실제 환경에서 사용하면서 부족한 부분을 발견하고 개선합니다.
+불편한 상황을 발견하면, 처음 쓰는 기술이라도 AI 코딩 도구와 함께 프로토타입부터 만듭니다.<br>
+그리고 실제 환경에서 써 보며 부족한 부분을 찾아 고칩니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=githubpages&logoColor=white)](https://42jh.github.io/portfolio/)
