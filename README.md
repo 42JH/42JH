@@ -2,9 +2,9 @@
 
 <img src="./assets/header.svg" width="100%" alt="Lee Jae Hun" />
 
-**반복되는 일을 AI로 덜어냅니다.**
+**문제를 발견하고, 빠르게 해결합니다.**
 
-실제로 써 보며 수치로 확인하고, 나아질 때까지 고칩니다.
+반복되는 작업을 발견하고, AI를 활용해 구현한 뒤, 실제 사용 과정에서 검증하고 개선합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=githubpages&logoColor=white)](https://42jh.github.io/portfolio/)
