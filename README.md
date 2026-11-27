@@ -2,10 +2,9 @@
 
 <img src="./assets/header.svg" width="100%" alt="Lee Jae Hun" />
 
-**개발은 코드를 쓰는 일보다, 문제를 발견하고 해결하는 과정입니다.**
+**문제를 발견하고, 빠르게 해결합니다.**
 
-불편한 상황을 발견하면, 처음 쓰는 기술이라도 AI 코딩 도구와 함께 프로토타입부터 만듭니다.<br>
-그리고 실제 환경에서 써 보며 부족한 부분을 찾아 고칩니다.
+반복되는 작업을 발견하고, AI를 활용해 구현한 뒤, 실제 사용 과정에서 검증하고 개선합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=githubpages&logoColor=white)](https://42jh.github.io/portfolio/)
