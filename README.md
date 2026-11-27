@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Lee Jaehoon" />
+<img src="./assets/header.svg" width="100%" alt="Lee Jae Hun" />
 
-**AI를 사람들이 매일 쓰는 서비스로 만드는 개발자, 이재훈입니다.**
+**개발은 코드를 쓰는 일보다, 문제를 발견하고 해결하는 과정입니다.**
+
+저는 개발을 단순히 코드를 작성하는 일보다, 문제를 발견하고 해결하는 과정으로 생각합니다.<br>
+불편한 상황을 발견하면 해결 방법을 찾아보고, 필요한 기술을 빠르게 학습해 프로토타입을 만듭니다.<br>
+이후 실제 환경에서 사용하면서 부족한 부분을 발견하고 개선합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-E0532F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h202407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8A7A?style=for-the-badge&logo=githubpages&logoColor=white)](https://42jh.github.io/portfolio/)
